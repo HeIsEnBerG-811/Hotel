@@ -1,0 +1,19 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: darkgreen;
+    color: white;
+
+}
+.Title {
+    background-color: white;
+    color: darkgreen;
+    padding: 20px;
+    border: 2px solid green;
+}
+.Meals {
+    background-color: white;
+    color: darkgreen;
+    padding: 10px;
+    border: 2px solid green;
+    font-size: larger;
+}
